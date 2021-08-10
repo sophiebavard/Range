@@ -4,7 +4,7 @@ This is the repository where I am storing the data and code used to generate beh
 Sophie Bavard, Aldo Rustichini, Stefano Palminteri   
 https://advances.sciencemag.org/content/7/14/eabe0340/
 
-## Behavioural analyses   
+## Behavioral analyses   
 Run the *behavioral_analyses.m* script to produce the *data_figures.mat*.   
 The script loads the raw matrix *data.mat* and extracts the variables of interest for the figures.
 
